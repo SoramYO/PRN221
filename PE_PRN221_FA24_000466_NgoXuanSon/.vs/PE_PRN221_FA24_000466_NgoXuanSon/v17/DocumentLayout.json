@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1C2FE3-B31B-4B5A-AC1A-D93C600E6828}|BOs\\BOs.csproj|d:\\pe_prn221_fa24_000466_ngoxuanson\\bos\\medicineinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1C2FE3-B31B-4B5A-AC1A-D93C600E6828}|BOs\\BOs.csproj|solutionrelative:bos\\medicineinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1C2FE3-B31B-4B5A-AC1A-D93C600E6828}|BOs\\BOs.csproj|d:\\pe_prn221_fa24_000466_ngoxuanson\\bos\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1C2FE3-B31B-4B5A-AC1A-D93C600E6828}|BOs\\BOs.csproj|solutionrelative:bos\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0941C-E53E-48DD-8574-B3275B6ADC91}|PharmaceuticalManagement_NgoXuanSon\\PharmaceuticalManagement_NgoXuanSon.csproj|d:\\pe_prn221_fa24_000466_ngoxuanson\\pharmaceuticalmanagement_ngoxuanson\\pages\\pharmaceuticalmanagementpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22E0941C-E53E-48DD-8574-B3275B6ADC91}|PharmaceuticalManagement_NgoXuanSon\\PharmaceuticalManagement_NgoXuanSon.csproj|solutionrelative:pharmaceuticalmanagement_ngoxuanson\\pages\\pharmaceuticalmanagementpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0941C-E53E-48DD-8574-B3275B6ADC91}|PharmaceuticalManagement_NgoXuanSon\\PharmaceuticalManagement_NgoXuanSon.csproj|d:\\pe_prn221_fa24_000466_ngoxuanson\\pharmaceuticalmanagement_ngoxuanson\\pages\\pharmaceuticalmanagementpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0941C-E53E-48DD-8574-B3275B6ADC91}|PharmaceuticalManagement_NgoXuanSon\\PharmaceuticalManagement_NgoXuanSon.csproj|solutionrelative:pharmaceuticalmanagement_ngoxuanson\\pages\\pharmaceuticalmanagementpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871ACEA0-7422-43B3-8E22-ACAC17E64687}|Repos\\Repos.csproj|d:\\pe_prn221_fa24_000466_ngoxuanson\\repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871ACEA0-7422-43B3-8E22-ACAC17E64687}|Repos\\Repos.csproj|solutionrelative:repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871ACEA0-7422-43B3-8E22-ACAC17E64687}|Repos\\Repos.csproj|d:\\pe_prn221_fa24_000466_ngoxuanson\\repos\\imedicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871ACEA0-7422-43B3-8E22-ACAC17E64687}|Repos\\Repos.csproj|solutionrelative:repos\\imedicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB79A6E-D995-48A9-AADE-B2A37899CE7A}|DAOs\\DAOs.csproj|d:\\pe_prn221_fa24_000466_ngoxuanson\\daos\\medicineinformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB79A6E-D995-48A9-AADE-B2A37899CE7A}|DAOs\\DAOs.csproj|solutionrelative:daos\\medicineinformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicineInformation.cs",
+              "DocumentMoniker": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\BOs\\MedicineInformation.cs",
+              "RelativeDocumentMoniker": "BOs\\MedicineInformation.cs",
+              "ToolTip": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\BOs\\MedicineInformation.cs",
+              "RelativeToolTip": "BOs\\MedicineInformation.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:47:35.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\BOs\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "BOs\\Manufacturer.cs",
+              "ToolTip": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\BOs\\Manufacturer.cs",
+              "RelativeToolTip": "BOs\\Manufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:47:34.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicineRepo.cs",
+              "DocumentMoniker": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\Repos\\MedicineRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\MedicineRepo.cs",
+              "ToolTip": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\Repos\\MedicineRepo.cs",
+              "RelativeToolTip": "Repos\\MedicineRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:35:47.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicineInformationDAO.cs",
+              "DocumentMoniker": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\DAOs\\MedicineInformationDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\MedicineInformationDAO.cs",
+              "ToolTip": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\DAOs\\MedicineInformationDAO.cs",
+              "RelativeToolTip": "DAOs\\MedicineInformationDAO.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:34:55.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMedicineRepo.cs",
+              "DocumentMoniker": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\Repos\\IMedicineRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\IMedicineRepo.cs",
+              "ToolTip": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\Repos\\IMedicineRepo.cs",
+              "RelativeToolTip": "Repos\\IMedicineRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:34:13.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\PharmaceuticalManagement_NgoXuanSon\\Pages\\PharmaceuticalManagementPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "PharmaceuticalManagement_NgoXuanSon\\Pages\\PharmaceuticalManagementPage\\Index.cshtml.cs",
+              "ToolTip": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\PharmaceuticalManagement_NgoXuanSon\\Pages\\PharmaceuticalManagementPage\\Index.cshtml.cs",
+              "RelativeToolTip": "PharmaceuticalManagement_NgoXuanSon\\Pages\\PharmaceuticalManagementPage\\Index.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:33:12.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\PharmaceuticalManagement_NgoXuanSon\\Pages\\PharmaceuticalManagementPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "PharmaceuticalManagement_NgoXuanSon\\Pages\\PharmaceuticalManagementPage\\Index.cshtml",
+              "ToolTip": "D:\\PE_PRN221_FA24_000466_NgoXuanSon\\PharmaceuticalManagement_NgoXuanSon\\Pages\\PharmaceuticalManagementPage\\Index.cshtml",
+              "RelativeToolTip": "PharmaceuticalManagement_NgoXuanSon\\Pages\\PharmaceuticalManagementPage\\Index.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T05:33:11.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
